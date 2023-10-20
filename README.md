@@ -55,7 +55,7 @@ classDiagram
 
 ## IMPORTANTE
 
-Este projeto foi construído com um viés totalmente educacional para a DIO. Por isso, disponibilizamos uma versão mais robusta dele no repositório oficial da DIO:
+versão mais robusta do projeto:
 
 ### [digitalinnovationone/santander-dev-week-2023-api](https://github.com/digitalinnovationone/santander-dev-week-2023-api)
 
